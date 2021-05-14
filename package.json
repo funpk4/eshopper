@@ -18,7 +18,9 @@
 "nodemon":"1.19.3"
 },
   "scripts": {
-    "start":"nodemon api.js"
+"test":"echo\"Error: not test specified\" && exit 1",
+    "start":"node api.js",
+"dev":"nodemon api.js"
   },
   "author": "",
   "license": "ISC"
