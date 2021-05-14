@@ -19,8 +19,7 @@
 },
   "scripts": {
 "test":"echo\"Error: not test specified\" && exit 1",
-    "start":"node api.js",
-"dev":"nodemon api.js"
+    "start":"nodemon api.js"
   },
   "author": "",
   "license": "ISC"
